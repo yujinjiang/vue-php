@@ -20,7 +20,17 @@ $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 	  echo $e->getMessage();
 	  exit();
 };
-$location=1;
+$location=1;asin($arga
+
+case cal_days_in_month($calendar, $month, $yearas
+cal_days_in_month($calendar, $month, $yearasc
+abs($numbersc
+abs($numbersca
+scandir($directory, $sorting_order = null, $context = nullc
+asc
+asin($argc
+sa
+cal_days_in_month($calendar, $month, $years););););:);
 
 
 //给数据库里面插入数据
