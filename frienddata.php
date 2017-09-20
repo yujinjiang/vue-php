@@ -11,7 +11,7 @@ jkdhaksdasdlakjdldsjlkdlkj
  // echo json_encode($arr);
  //  $times = date("Y-n-j-G-i-s");
    
-try{
+fetdjsagdjsag{
 $pdo=new PDO("mysql:host=localhost;dbname=vue","root","root");
 $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 }catch(PDOException $e)
